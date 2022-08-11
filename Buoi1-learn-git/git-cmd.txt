@@ -1,3 +1,1 @@
-- git init: tao version git o phi local --> doi chieu voi repo
-- git add . : cho tat ca cac file/folder vao git local
-- git status
+Da xem 
